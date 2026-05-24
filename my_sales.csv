@@ -1,0 +1,6 @@
+OrderDate,Product,Category,Quantity,Sales,Profit,Region
+2026-01-01,Laptop,Electronics,2,80000,10000,South
+2026-01-02,Phone,Electronics,3,60000,12000,North
+2026-01-03,Chair,Furniture,5,25000,5000,East
+2026-01-04,Table,Furniture,2,30000,7000,West
+2026-01-05,Laptop,Electronics,1,40000,5000,South
